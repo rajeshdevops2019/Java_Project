@@ -11,5 +11,7 @@ class Factoral
  	 	  }
  
  	        System.out.println("factoral="+fact);
+
+		echo "this is the output"
 	}
 }
